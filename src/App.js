@@ -5,6 +5,7 @@ function App() {
   return (
     <>
       <h1>Hi</h1>
+      <h1>amine</h1>
       <h2>triay</h2>
     </>
 
